@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  gap: 3em
+}
+
+.main h1 {
+  margin-bottom: 20px;
+  font-size: 34px;
+  color: #00976b;
+}
